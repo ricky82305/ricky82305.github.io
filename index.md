@@ -4,7 +4,7 @@ This is my home page! My name is Richard Gomez and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is (http://github.com/ricky82305).
+My GitHub page is http://github.com/ricky82305.
 
 ### CPSC 120
 
